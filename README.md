@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋！I'm Rayne.
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ninetailsrabbit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basaltic&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basaltic&layout=compact&langs_count=8&theme=moltack"/>
+</a>
+</p>
 
 <!--
 **Basaltic/Basaltic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
